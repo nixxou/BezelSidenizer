@@ -1,0 +1,1 @@
+BezelSidenizer.exe bezelPath opacityPercent [outPath]
